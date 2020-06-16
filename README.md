@@ -1,2 +1,6 @@
 # Venmo_Social_Network_Pyspark
-Predicted customers lifetime transaction with social network clustering and text analytics on 7M records in Spark 
+Predicted customers lifetime transaction with social network clustering and text analytics on 7M records in Spark.
+
+# Data Set 
+Transaction record between users. 
+Classified information. 
