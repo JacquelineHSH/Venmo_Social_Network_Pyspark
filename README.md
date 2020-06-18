@@ -9,3 +9,6 @@ What made Venmo so popular in the US is its social flavor; users are required to
 # Data Set 
 Transaction record between users. 
 Classified information. 
+
+# Methodology 
+Build personal spending files and social metrics to predict lifetime transaction
